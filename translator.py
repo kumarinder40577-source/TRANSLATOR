@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1qFOjVhnMUnnwj6jOajVnTjNwzvjlrJ8Y
 """
 
-!pip install googletrans==4.0.0-rc1
+
 
 from googletrans import Translator, LANGUAGES
 import ipywidgets as widgets
